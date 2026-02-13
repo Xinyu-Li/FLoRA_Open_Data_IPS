@@ -1,5 +1,5 @@
-# FLoRA_Open_Data_Monash_FIT5145
-This is a dataset collected in the Introduction to Data Science (FIT5145) at Monash University.
+# FLoRA_Open_Data_IPS
+This is a dataset collected in an Introduction to Data Science course at a university in Australia.
 
 The dataset comprises comprehensive trace data from students using the <a href="https://github.com/Xinyu-Li/FLoRA">FLoRA Engine</a>, with all events labelled for self-regulated learning (SRL) based on Bannert’s framework. Unlike prior SRL studies that emphasise brief, tightly controlled tasks, our two-week assignment captures how SRL unfolds across multiple sessions in authentic higher education contexts. This longer window reveals transitions from initial task definition, goal setting, and strategy selection to active monitoring, iterative revision of problem-solving steps, and reflective adaptation—offering new insights into the dynamics of long-term SRL.
 
