@@ -14,8 +14,8 @@ Finally, because participation in FLoRA was voluntary, the dataset includes both
 &emsp;&emsp;title={Dataset of GenAI-assisted Information Problem Solving in Education},<br>
 &emsp;&emsp;author={Li, Xinyu and Yang, Kaixun and Wei, Jiameng and Cheng, Yixin and Ga\v{s}evi\'{c}, Dragan and <br>
 &emsp;&emsp;Chen, Guanliang},<br>
-&emsp;&emsp;journal={Scientific Data},<br>
-&emsp;&emsp;year={2025}<br>
+&emsp;&emsp;journal={arXiv preprint arXiv:2601.12718},<br>
+&emsp;&emsp;year={2026}<br>
 }
 @article{li2025floraengine,<br>
 &emsp;&emsp;title={The FLoRA Engine: Using Analytics to Measure and Facilitate Learners' own Regulation Activities},<br>
