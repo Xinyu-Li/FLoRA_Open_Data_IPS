@@ -9,6 +9,7 @@ Comparisons between high- and low-performing students further highlight meaningf
 
 Finally, because participation in FLoRA was voluntary, the dataset includes both users and non-users of GenAI. This contrast enables evaluation of GenAI’s influence on information-seeking strategies and academic performance, clarifying its educational value and informing the design of supports that foster effective self-regulation and improved learning outcomes.
 
+The Data is available at Figshare (https://doi.org/10.6084/m9.figshare.32321499);
 
 @article{li2025ips_dataset,<br>
 &emsp;&emsp;title={Dataset of GenAI-assisted Information Problem Solving in Education},<br>
